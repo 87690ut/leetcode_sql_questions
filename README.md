@@ -40,5 +40,3 @@ I am constantly focusing on strengthening my analytical concepts from a basic to
 ---
 **Note for Recruiters:** Feel free to explore the folders to check my coding style and problem-solving approach.
 
-# leetcode_sql_questions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
