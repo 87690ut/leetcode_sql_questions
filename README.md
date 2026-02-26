@@ -32,7 +32,9 @@ Is folder mein complex database queries hain jo relational databases se data ext
 ## 👨‍💻 About The Developer
 
 Hi, I am **Uttam Tiwari**. 
-Main apne analytical concepts ko basic se advanced level tak strong karne par focus kar raha hu. Mera goal raw data ko samajhna aur usse meaningful insights nikalna hai.
+I am constantly focusing on strengthening my analytical concepts from a basic to an advanced level. My goal is to understand raw data and extract meaningful insights from it.
+
+> *"Consistent practice is the only shortcut to mastering data."*
 
 > *"Consistent practice is the only shortcut to mastering data."*
 
