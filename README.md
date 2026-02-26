@@ -36,7 +36,6 @@ I am constantly focusing on strengthening my analytical concepts from a basic to
 
 > *"Consistent practice is the only shortcut to mastering data."*
 
-> *"Consistent practice is the only shortcut to mastering data."*
 
 ---
 **Note for Recruiters:** Feel free to explore the folders to check my coding style and problem-solving approach.
